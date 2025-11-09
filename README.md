@@ -192,9 +192,6 @@ The model correctly identifies ~87% of the applications that truly deserve appro
 ### Future Scope
 
 - Deploy model using Streamlit / FastAPI
-- Build REST API endpoints for real-time scoring
-- Use SHAP / LIME for explainability
-- Add model monitoring + feedback loop for retraining
 
 ## How to Run the Notebook
 
